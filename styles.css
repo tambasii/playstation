@@ -85,3 +85,12 @@ nav ul li a:hover {
   margin: 30px 0;
   font-size: 20px;
 }
+
+button {
+  width: 140px;
+  border: 0;
+  padding: 12px 10px;
+  outline: none;
+  color: #fff;
+  background: linear-gradient(to right, #fb5283, #ff3527);
+}
