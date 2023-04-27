@@ -129,3 +129,14 @@ button:hover {
   left: -40px;
   top: 8px;
 }
+
+.col-2 {
+  position: relative;
+  flex-basis: 60%;
+  display: flex;
+  align-items: center;
+}
+
+.col-2 .controller {
+  width: 90%;
+}
