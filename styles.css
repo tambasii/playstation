@@ -152,3 +152,14 @@ button:hover {
   z-index: -1;
   transform: translateX(150px);
 }
+
+.add-btn img {
+  width: 35px;
+  margin-bottom: 5px;
+}
+
+.add-btn {
+  text-align: center;
+  color: #fff;
+  cursor: pointer;
+}
