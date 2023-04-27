@@ -163,3 +163,9 @@ button:hover {
   color: #fff;
   cursor: pointer;
 }
+
+.social-links img {
+  height: 13px;
+  margin: 20px;
+  cursor: pointer;
+}
